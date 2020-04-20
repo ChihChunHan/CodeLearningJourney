@@ -1,1 +1,2 @@
-# CodeLearningJourney
+#紀錄自我學習的每一天
+當作blog來寫
